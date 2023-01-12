@@ -13,5 +13,9 @@ The developed toolbox serves as a platform to:
 - Design simple and complex compliant mechanisms using the hinges and beams (Modules 1 & 2), 
 - Design and motion analysis of soft robots (Module 3)
 
+#### Requirements
+- Since the virtual lab is developed in MATLAB R2021b, user needs to download the entire package either in R2021b and newer versions of MATLAB.
+- Good news: No pripor knowledge of MATLAB SImscape is required for running simulations on the presented submodules. User needs to enter the inputs using the mask. Data will be exported for further analysis.
+- User needs beginner level MATLAB SImscape knowledge to design a new compliant mechanism or soft robots using the submodules.
 
 
