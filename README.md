@@ -24,3 +24,8 @@ Please download our publications on the modeling of compliant mechanisms and sof
 2. [Modeling and Validation of Compliant Mechanisms and Soft Robots in MATLAB Simscape](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V007T07A008/1150649)
 3. Our recent paper more related to the developed virtual lab will be publicli available soon.
   
+
+https://user-images.githubusercontent.com/86011214/212130811-4b522a50-ae33-4f8b-a312-ab5ef32cc9e8.mp4
+
+
+
