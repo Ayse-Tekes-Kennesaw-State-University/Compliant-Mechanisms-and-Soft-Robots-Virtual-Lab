@@ -18,4 +18,9 @@ The developed toolbox serves as a platform to:
 - Good news: No pripor knowledge of MATLAB SImscape is required for running simulations on the presented submodules. User needs to enter the inputs using the mask. Data will be exported for further analysis.
 - User needs beginner level MATLAB SImscape knowledge to design a new compliant mechanism or soft robots using the submodules.
 
-
+#### Additional Resources
+Please download our publications on the modeling of compliant mechanisms and soft robots using Simscape:
+1. [Modeling of Compliant Mechanisms in MATLAB Simscape](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/V07BT07A020/1099281)
+2. [Modeling and Validation of Compliant Mechanisms and Soft Robots in MATLAB Simscape](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V007T07A008/1150649)
+3. Our recent paper more related to the developed virtual lab will be publicli available soon.
+  
